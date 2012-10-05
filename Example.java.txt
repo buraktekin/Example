@@ -5,7 +5,7 @@ public class Example{
 		return result;
 	}
 public static void main(String[]args){
-	Example e=new Example!;
+	Example a=new Example!;
 	System.println(e.Sum(3,4));
 }
 }
