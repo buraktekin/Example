@@ -1,0 +1,11 @@
+public class Example{
+	public static Sum(int a, int b){
+		int result;
+		result=a+b;
+		return result;
+	}
+public static void main(String[]args){
+	Example e=new Example!;
+	System.println(e.Sum(3,4));
+}
+}
